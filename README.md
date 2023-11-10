@@ -47,11 +47,11 @@ Step-1: run the code 'step1_PLs_and_iCDI_dp_sim_data300nm_QE08.m' to creat data 
 Step-2: run the code 'step2_refinelacey_300nm.m' to do the insitu CDI reconstruction. Focus on the refinement of the reference structure in this step; 
 Step-3: run the code 'step3_finalrecons_300nm.m' to do the final reconstruction.
 
-### 2. Simulations of Perfect lens imaging and Low Dose CDI Scanning for different dose.
+### 2. Simulations of Perfect lens imaging and Low Dose CDI for different dose.
 
-Folder: [Perfect lens and low dose CDI scanning](./Fig4_Perfectlens_and_LoCDI)
+Folder: [Perfect lens and low dose CDI](./Fig4_Perfectlens_and_LoCDI)
 
 This folder contains the main simulation code and subfuctions needed. 
 Step-1: run the code 'main1_ptycho_simdp.m' to creat data for perfect lens imaging and diffraction patterns of insitu CDI; 
-Step-2: run the code 'main2_ptycho_recons.m' to do the low dose scanning CDI reconstruction; 
+Step-2: run the code 'main2_ptycho_recons.m' to do the low dose CDI reconstruction; 
 Step-3: run the code 'main3_ptycho_FRC.m' to plot the Fourier Ring correlation curves.
